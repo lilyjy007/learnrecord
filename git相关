@@ -1,0 +1,3 @@
+本地新建文件夹 git init
+在gitlab添加ssh key
+克隆远程库到本地 git  clone ssh://git@.....
